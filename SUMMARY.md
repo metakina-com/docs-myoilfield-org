@@ -1,20 +1,20 @@
 # Table of contents
 
-* [MO English](README.md)
+* [MO 简体中文](README.md)
 
-## MO Panorama
+## MO 全景
 
-* [Background of MO](mo-panorama/background-of-mo.md)
-* [Overview of MO](mo-panorama/overview-of-mo.md)
-* [Advantages of Mo](mo-panorama/advantages-of-mo.md)
+* [Mo的背景](mo-quan-jing/quickstart.md)
+* [Mo的概述](mo-quan-jing/publish-your-docs.md)
+* [Mo的优势](mo-quan-jing/mo-de-you-shi.md)
 
-## Core Aspects of MO
+## MO 核心
 
-* [Technical Architecture of Mo](core-aspects-of-mo/technical-architecture-of-mo.md)
-* [Business System](core-aspects-of-mo/business-system.md)
-* [Roadmap](core-aspects-of-mo/roadmap.md)
-* [Founding Team](core-aspects-of-mo/founding-team.md)
-* [Social Value](core-aspects-of-mo/social-value.md)
-* [Risks and Challenges](core-aspects-of-mo/risks-and-challenges.md)
-* [Conclusion](core-aspects-of-mo/conclusion.md)
-* [Disclaimer](core-aspects-of-mo/disclaimer.md)
+* [技术架构](mo-he-xin/editor.md)
+* [商业体系](mo-he-xin/markdown.md)
+* [发展路线](mo-he-xin/images-and-media.md)
+* [创始团队](mo-he-xin/interactive-blocks.md)
+* [社会价值](mo-he-xin/she-hui-jia-zhi.md)
+* [风险与挑战](mo-he-xin/feng-xian-yu-tiao-zhan.md)
+* [结论](mo-he-xin/jie-lun.md)
+* [免责声明](mo-he-xin/mian-ze-sheng-ming.md)
